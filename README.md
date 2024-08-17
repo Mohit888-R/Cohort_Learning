@@ -23,8 +23,29 @@ Open Source Project of 100X
 <li> Tiplink (even tho we’re building it saparately, if you want to build a better version with a twist, you should do it)</li>
 <li>  Github Bounty Dispenser. Make users give their Adhar/Pan. Make users link their github with their wallet address. Allow maintainers to approve bounties. Create a dashboard where you can track profiles of users/companies and a leaderboard of contributors based on bounty earned</li>
 <li>  UI Library for Solana - NFTCard, TokenCard, SwapCard </li>
- 
+<li>Opinion market : probo</li>
+<li> platform where another educators can go live or can create video on bit (2 Lac/ 3 Lac) by multiple user & creater will get money & create video for only that user. </li>
 </ol>
 
+### Why Blockchain
+<ol type="1"> 
+<li>We need a currency that we can control</li>
+<li>And should not centralized</li>
+</ol>
+
+``` currency always be Inflating, affect of fractional reserve banking ```
 
 
+### How to Create a new currency : 
+<ul>
+   <li>currency issued by only central govt. You can't create your own money & ask to users to use it</li>
+   <li>Not trustworthy until central will not control etc.</li>
+</ul>
+
+
+
+### Intro to hashing 
+<ul>
+   <li>a string converts into fixed size of hash string </li>
+   <li></li>
+</ul>
