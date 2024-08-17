@@ -47,5 +47,20 @@ Open Source Project of 100X
 ### Intro to hashing 
 <ul>
    <li>a string converts into fixed size of hash string </li>
-   <li></li>
+   <li>Each output will be unique for each & every input (* In case can get duplicate hash string for such input)</li>
+   <li>Input value change in hash string with the help of hashing function</li>
 </ul>
+
+#### Nodejs code for generating SHA-256
+```
+ const crypto = require('crypto');
+ const input = '100xdevs';
+ const hash = crypto.createHash('sha256').update(input).digest('hex');
+ console.log(hash);
+```
+
+OutPut
+![image](https://github.com/user-attachments/assets/b6f401c5-6d95-4c67-a365-5c864ad08bfe)
+
+
+
